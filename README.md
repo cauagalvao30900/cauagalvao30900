@@ -1,5 +1,5 @@
 
-### Olá me chamo Cauã sou programado de algumas linguagens, atualmente realizo o curso técnico na Fatec
+### Olá me chamo Cauã sou programador de algumas linguagens, atualmente realizo o curso técnico na Fatec
 
  ## Tecnologias que eu sou experiente
 
