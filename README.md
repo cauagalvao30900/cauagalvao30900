@@ -61,6 +61,3 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Cauagalvao30900/Cauagalvao30900/output/snake.svg" alt="Snake animation" />
-</div>
